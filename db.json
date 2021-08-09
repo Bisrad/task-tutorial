@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Afternoon Workout",
+      "day": "August 9th at 1pm",
+      "reminder": true,
+      "id": "4VgVkee"
+    },
+    {
+      "text": "Create VUE CRUD app ",
+      "day": "August 6th at 12pm",
+      "reminder": true,
+      "id": "uTiQFc1"
+    },
+    {
+      "text": "Grill with Family",
+      "day": "August 15th at 5pm",
+      "reminder": false,
+      "id": "bkmrrXJ"
+    }
+  ]
+}
